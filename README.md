@@ -15,7 +15,7 @@
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd NetFire-task.git
+    cd NetFire-task
     ```
 
 3.  **Install dependencies:**
