@@ -1,6 +1,7 @@
 import PromoBanner from "./components/advertisements/PromoBanner";
 import Footer from "./components/Footer";
-import Hero from "./components/hero/hero";
+import Hero from "./components/hero/Hero";
+
 import Navbar from "./components/navigation/Navbar";
 
 function App() {
