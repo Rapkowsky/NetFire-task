@@ -1,5 +1,5 @@
 import ShoppingCart from "@/assets/navIcons/ShoppingCart.svg";
-import User from "@/assets/navIcons/User.svg";
+import User from "@/assets/navIcons/user.svg";
 import Magnifier from "@/assets/navIcons/Magnifier.svg";
 
 export const navLinks = [
